@@ -1,0 +1,145 @@
+:root {
+    font-size: 16px;
+}
+.header{
+    background: #E8EFF5;
+    height: 171px;
+}
+.footer{
+    width: 100%;
+    height: 869px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #091F3A;
+}
+.everest_img{
+    margin-left: 300px;
+    margin-top: 25px;
+}
+.kazan{
+    margin-left: 621px;
+    margin-top: -133px;
+    margin-bottom:32px;
+}
+.image{
+    margin-left: 300px;
+    margin-top: -75px;
+    margin-bottom: 79px;
+    background-image: url(../Everest/img/image\ 14.png);
+    width: 1320px;
+    height:550px;
+}
+.zakaz{
+    margin-left: 360px;
+    margin-top: -450px;
+}
+.yzn{
+    margin-left:400px;
+    margin-bottom:200px;
+    margin-top: 200px;
+}
+.phone_img{
+    margin-left:722px;
+    margin-top: -279px;
+    margin-bottom: 222px;
+}
+.tele{
+    margin-left:742px;
+    margin-top: -50px;
+    margin-bottom: 54px;
+}
+.KAT{
+    margin-left: 600px;
+    margin-top: -834px;
+    margin-bottom: 200px;
+}
+.vector55_img{
+    margin-left: 599px;
+    margin-top: -188px;
+    margin-bottom:200px;
+}
+.znachki{
+    margin-left: 1766px;
+    margin-top: -88px;
+    margin-bottom: 67px;
+}
+.wrapper {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.d{
+    margin-left: 999px;
+    margin-top: -67px;
+    margin-bottom: 36px;
+}
+.o{
+    margin-left: 1129px;
+    margin-top: -53px;
+    margin-bottom:111px ;
+}
+.prin{
+    margin-left: 1238px;
+    margin-top: -129px;
+    margin-bottom: 74px;
+}    
+.opt{
+    margin-left: 1368px;
+    margin-top: -93px;
+    margin-bottom: 92px;
+}
+.vak{
+    margin-left: 1490px;
+    margin-top: -107px;
+    margin-bottom: 104px;
+}
+.nov{
+    margin-left: 1600px;
+    margin-top: -121px;
+    margin-bottom: 118px;
+}
+.kont{
+    margin-left: 1715px;
+    margin-top: -137px;
+    margin-bottom: 140px;
+}
+.KITKAT{
+    margin-left: 299px;
+ 
+   
+}
+.vlevo{
+    margin-left: 1210px;
+    display: flex;
+    margin-bottom: 210px;
+    margin-top: -189px;
+    width:56px;
+}
+.vpravo{
+    margin-left: 1277px;
+    display: flex;
+    margin-bottom: 255px;
+    margin-top: -222px;
+    width:56px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 244px 1fr;
+    grid-template-rows: 218px 218px;
+    gap: 15px 16px;
+    margin-top: 48px;
+}
+.blok1{
+    background-color: aqua;
+    width: 424px;
+    height: 420px;
+    margin-left: 100px;
+}
+.navi4{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+}
